@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(6, 27, 14);
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 2px solid;
+    padding: 1em;
+    align-items: center;
+    margin-left: 7%;
+    margin-right: 10%;
+}
+.navbar a{
+    text-decoration: none;
+    color:rgb(202, 236, 133);
+}
+.navbar a:hover{
+    text-decoration: underline;
+}
+.main{
+    padding-left: 7%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+
+}
+h2,h3{
+    color: rgb(201, 195, 195);
+}
+p{
+    color: azure;
+}
